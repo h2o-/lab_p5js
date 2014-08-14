@@ -1,9 +1,12 @@
 # hanzo p5 experiments
 
 
+using [p5](http://p5js.org/)
+
+
 sounds by [hems](http://soundcloud.com/hems)
 
-using [p5](http://p5js.org/)
+
 
 
 
